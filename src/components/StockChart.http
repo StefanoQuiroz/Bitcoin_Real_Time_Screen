@@ -1,2 +1,8 @@
 ###GET DATA
-GET https://api.pro.coinbase.com/products
+GET https://api.binance.com/api/v3/exchangeInfo
+
+###GET DATA
+GET https://api.binance.com/api/v3/exchangeInfo?symbol=BNBBTC
+
+###GET DATA
+GET https://api.binance.com/api/v3/exchangeInfo?symbol=BNBBTC
